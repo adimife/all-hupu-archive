@@ -1,2 +1,14 @@
 # all-hupu-archive
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
